@@ -1,0 +1,11 @@
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\BCD\obj\Debug\netcoreapp3.0\BCD.csprojAssemblyReference.cache
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\BCD\obj\Debug\netcoreapp3.0\BCD.AssemblyInfoInputs.cache
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\BCD\obj\Debug\netcoreapp3.0\BCD.AssemblyInfo.cs
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\BCD\bin\Debug\netcoreapp3.0\BCD.exe
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\BCD\bin\Debug\netcoreapp3.0\BCD.deps.json
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\BCD\bin\Debug\netcoreapp3.0\BCD.runtimeconfig.json
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\BCD\bin\Debug\netcoreapp3.0\BCD.runtimeconfig.dev.json
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\BCD\bin\Debug\netcoreapp3.0\BCD.dll
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\BCD\bin\Debug\netcoreapp3.0\BCD.pdb
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\BCD\obj\Debug\netcoreapp3.0\BCD.dll
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\BCD\obj\Debug\netcoreapp3.0\BCD.pdb
